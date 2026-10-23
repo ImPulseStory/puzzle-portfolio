@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WBLUpadgO6k=",
+  "success": true,
+  "projectFilePath": "/home/impulsestory/backend/puzzle-portfolio/course-1/practices/c2-pr-3/solution/solution/solution.csproj",
+  "expectedPackageFiles": [
+    "/home/impulsestory/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.13/microsoft.aspnetcore.app.ref.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
