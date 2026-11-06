@@ -4,4 +4,9 @@
 
 Решение в solution/Program.cs
 
-Запускать через dotnet!
+## Запуск
+
+Команда для запуска в директории solution:
+```bash
+dotnet run
+```
